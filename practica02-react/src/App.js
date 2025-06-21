@@ -1,9 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Acordeon from "./Componenetes/Acordeon";
+import Navegacion from "./Componenetes/Navegacion";
 
 function App() {
   return (
     <div className="App">
+
+      <Navegacion />
+
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -17,7 +24,12 @@ function App() {
         >
           Learn React
         </a>
+
+      <Acordeon />
+
       </header>
+
+
     </div>
   );
 }
