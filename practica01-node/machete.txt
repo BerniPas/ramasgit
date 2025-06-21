@@ -1,0 +1,11 @@
+
+
+
+- mañana tengo un asado.
+- terminar conexion.js
+
+- reeuniipokl
+
+git status: estado de git 
+git branch: me lilsta las ramas que tengo en mi proyecto
+git branch -l: me lilsta las ramas que tengo en mi proyecto
